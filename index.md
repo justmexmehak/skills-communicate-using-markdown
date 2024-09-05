@@ -4,3 +4,6 @@
 #### AND THUS IS H4
 ##### HMM H5
 ###### FINALLY H6
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
